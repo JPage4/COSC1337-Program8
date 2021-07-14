@@ -1,0 +1,38 @@
+Name:    Jessica Page
+Course:  Programming Fundamentals II
+Program: 8
+
+How much is 3 times 1?
+3
+Keep up the good work!
+How much is 8 times 8?
+3
+Wrong, Try once more!
+How much is 8 times 8?
+64
+Keep up the good work!
+How much is 1 times 6?
+3
+That is incorrect!
+How much is 1 times 6?
+4
+No. Please try again!
+How much is 1 times 6?
+5
+No. Please try again!
+How much is 1 times 6?
+5
+Wrong, Try once more!
+How much is 1 times 6?
+6
+Nice work!
+How much is 3 times 9?
+21
+No. DonÆt give up!
+How much is 3 times 9?
+27
+Way to go!
+How much is 5 times 8?
+40
+Nice work!
+Press any key to continue . . .
